@@ -14,7 +14,7 @@ This is a simple Spring Boot web application that demonstrates basic MVC control
 - **URL:** `http://localhost:8080/greeting`
 - **Description:** Displays a default "Hello, World!" message when no name is provided.
 
-(image_d25871.png rasmini shu yerga sudrab tashlang)
+ ![Image Alt](https://github.com/Kamronbeks/Final-Project-Task1/blob/36a41a909d47682b1a64e57616026a1aa3f441ed/Screenshot%202026-01-14%20101042.png)
 
 ## 📁 Technical Implementation
 - **Controller:** `HelloController.java`
